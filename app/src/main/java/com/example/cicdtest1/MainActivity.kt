@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //github testBranch1
         //github testBranch2Protected
+        //github feature1OntestBranch2Protected
+        //github feature1OntestBranch2Protected2
     }
 }
