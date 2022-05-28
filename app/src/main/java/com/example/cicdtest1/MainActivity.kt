@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         //github testBranch1
         //github testBranch2Protected
         //github feature1OntestBranch2Protected
+        //github feature1OntestBranch2Protected2
     }
 }
